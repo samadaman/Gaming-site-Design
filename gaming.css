@@ -1,0 +1,116 @@
+body{
+    background-image: url(controler1.jpg);
+    background-size: cover;
+}
+*{
+    margin: 0px;
+}
+nav{
+    height: 25vh;
+    width: 1700px;
+}
+
+nav h3{
+    margin-left: 15px;
+    margin-right: 190px;
+    font-size: large;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    display: inline-block;
+}
+.navfloat{
+    display: flex;
+    justify-content: center;
+}
+nav a{
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    padding: 0px 5px 5px 20px ;
+    text-decoration: none;
+}
+.lastimg1{
+    margin-top: 15px;
+    float: right;
+    margin-left: 1%;
+}
+.lastimg2{
+    margin-top: 15px;
+    float: right;
+}
+.gaming{
+    font-family: 'Rubik', sans-serif;
+    color: rgb(162, 3, 3);
+}
+.box11{
+    width: 600px;
+    text-align:end;
+    font-family: 'Oswald', sans-serif;
+}
+.gamerhead{
+    word-spacing: 10px;
+    color: #ffffff;
+    font-size: 40px;
+}
+.quotes1{
+    text-align: justify;
+    margin-left: 350px;
+    color: gray;
+    font-size: small;
+}
+.download1{
+    background-color: rgb(87, 87, 87);
+    border: none;
+    border-radius: 25px;
+    height: 40px;
+    width: 110px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+}
+.play1{
+    background-color: transparent;
+    border: none;
+    box-sizing: border-box;
+    margin-right: 100px;
+}
+.box22{
+    display: flex;
+    justify-content: center;
+}
+.about12{
+    font-family: 'Rubik', sans-serif;
+    margin-top: 30px;
+    text-align: center;
+    font-size: large;
+    letter-spacing: 10px;
+}
+.about12 a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.button3{
+    background-color: transparent;
+    border: none;
+}
+.footerbtn{
+    width: 1300px;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+}
+.self12{
+    background-color: transparent;
+    border: none;
+    color: #ffffff;
+    border: 1px solid rgb(136, 136, 136);
+    margin: 10px;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    padding-top: 5px;
+    height: 50px;
+}
